@@ -28,7 +28,7 @@ Additional Technologies: Collections Framework, Streams API, CSS
 bash
 Copy
 Edit
-git clone 
+git clone https://github.com/SubodhJadhavCS/Bank-Management-APP-build-with-java-fx-and-mysql.git
 
 2️⃣ Configure MySQL Database and update database credentials in the project.
 3️⃣ Compile and run the application using:
